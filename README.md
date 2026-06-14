@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amitgaikwad162
-- 👀 I’m interested in  ...Python
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...python
+- 👀 I’m interested in  ...Data Analyst
+- 🌱 I’m currently learning ...Data analyst
+
 
 <!---
 amitgaikwad162/amitgaikwad162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
